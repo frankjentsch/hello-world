@@ -14,7 +14,7 @@ ENDCLASS.
 CLASS zcl_fj_hello_world IMPLEMENTATION.
 
   METHOD if_oo_adt_classrun~main.
-    out->write( 'Hello World' ).
+    out->write( 'Hello World4' ).
   ENDMETHOD.
 
 ENDCLASS.
